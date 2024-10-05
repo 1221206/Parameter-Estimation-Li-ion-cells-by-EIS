@@ -7,9 +7,9 @@ I have used a ***1RC*** model with ***Warburg*** impeadance to fit our _nyquist_
 
 Expected nyquist plot for ***1RC** model with ***Warburg*** impeadance looks like
 
-#NYQUIST PLOT
+# NYQUIST PLOT
 
-#METHODOLOGY
+# METHODOLOGY
 
 Here I have used multivariate regression model to estimate our _four_ cell parameters. As a thumb rule I have made sure that the **_RMSE_** error is less than 2%.
 The number of iterations used can be changed according to the error. PyTorch library is used here to implement the regression model.
