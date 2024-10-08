@@ -8,6 +8,10 @@ I have used a ***1RC*** model with ***Warburg*** impeadance to fit our _nyquist_
 Expected nyquist plot for ***1RC** model with ***Warburg*** impeadance looks like
 
 # NYQUIST PLOT
+Nyquist plots are polar plots for finding the stability of the closed loop control systems by varying ω from −∞ to ∞.
+The **X-axis** represents the **Real part** of the complex transfer function.
+The **Y-axis** represents the **imaginary part**.
+Here we use nyquist plot to choose our equivalent circuit.
 
 # METHODOLOGY
 
