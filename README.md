@@ -7,7 +7,7 @@ I have used a ***1RC*** model with ***Warburg*** impeadance to fit our _nyquist_
 
 Expected nyquist plot for ***1RC** model with ***Warburg*** impeadance looks like.
 
-![screenshot of expexted model.](https://github.com/user-attachments/assets/c15b131a-d7b4-4b71-bace-a0a53970ca7c)
+![screenshot of expexted model.](https://github.com/user-attachments/assets/0d287949-62e5-4ac1-b00d-554dd89e699b)
 
 
 # NYQUIST PLOT
