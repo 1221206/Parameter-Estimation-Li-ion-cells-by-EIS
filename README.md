@@ -18,6 +18,8 @@ Here we use nyquist plot to choose our equivalent circuit.
 
 # METHODOLOGY
 
-Here I have used multivariate regression model to estimate our _four_ cell parameters. As a thumb rule I have made sure that the **_RMSE_** error is less than 2%.
+Here I have used multivariate regression model to estimate our _four_ cell parameters. As a thumb rule I have made sure that the **_RMSE_** error is less than 2%. 
 The number of iterations used can be changed according to the error. PyTorch library is used here to implement the regression model.
+
+***Note*** that since we are using a simple regression technique the model is highly dependent on initial parameter values hence start with a standard initial value.
 
